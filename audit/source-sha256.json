@@ -1,5 +1,5 @@
 {
-  "utc": "2026-11-05T04:12:02.240Z",
+  "utc": "2026-11-05T13:39:22.506Z",
   "actor": "Codex",
   "repo": "pagelove/business-page-template",
   "scope": "Candidate source closure; audit files excluded to avoid recursive receipts",
@@ -37,13 +37,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2349,
-      "sha256": "b19ee5ca892c61af9b8da07e3a8d72655ec282de819dd8d06e0ca5570b1cb606"
+      "bytes": 3498,
+      "sha256": "b9bc0d1cb623df3d10dadba56838062ca82ad70fefbd26310bed9604ca16a0bf"
     },
     {
       "path": "REVIEW.md",
-      "bytes": 1767,
-      "sha256": "586c31d80d70a03125493b93eb1f65c7db3ac2700d228df60440f302be9d1a34"
+      "bytes": 2916,
+      "sha256": "60114cb065ccf5a8d7e0948bb4521be133ffc288679dd2b7ad2e11470300ce96"
     },
     {
       "path": "bun.lock",
