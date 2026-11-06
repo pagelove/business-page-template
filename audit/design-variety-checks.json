@@ -1,0 +1,56 @@
+{
+  "utc": "2026-11-06T00:27:44.725Z",
+  "app": "business-page",
+  "design": "classic",
+  "mode": "light",
+  "desktop": {
+    "app": "business-page",
+    "background": "rgb(255, 255, 255)",
+    "bodyFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Arial, sans-serif",
+    "bodyFontReady": true,
+    "cardRadius": "12px",
+    "design": "classic",
+    "headingFamily": "\"Source Serif 4\", Georgia, serif",
+    "headingFontReady": true,
+    "mode": "light",
+    "overflow": false
+  },
+  "mobile": {
+    "app": "business-page",
+    "headerActionHeight": 46,
+    "overflow": false,
+    "width": 320
+  },
+  "tasks": {
+    "app": "business-page",
+    "empty": "0 services",
+    "dialogFocus": true,
+    "escapeCloses": true
+  },
+  "checks": [
+    {
+      "args": [
+        "scripts/check.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "--test",
+        "tests/model.test.mjs",
+        "tests/domain.test.mjs",
+        "tests/persistence.test.mjs",
+        "tests/deployment.test.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "scripts/deploy.mjs",
+        "--prepare"
+      ],
+      "status": 0
+    }
+  ],
+  "limits": "Browser local fixture; OS motion emulation/physical device/screen reader and new production permissions not tested."
+}

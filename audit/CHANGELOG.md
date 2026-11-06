@@ -47,3 +47,12 @@ DESIGN-REFRESH mobile correction 2026-11-06T00:03:23.881Z: at320px long brand pl
 
 ## DESIGN-REFRESH-VERIFIED — 2026-11-06T00:05:44.146Z
 Actor: Codex; reference DESIGN-REFRESH-PLAN. check/full model-domain-persistence-deployment tests/prepare pass. Actual1280px/320px browser checks show loaded local Inter and no page overflow,≥44px visible controls. Search no-results/recovery, native editor focus/prefill and Escape cancellation pass; Photo Album next/close viewer also passes. Final screenshots inspected after spacing/header corrections. All site file SHA256 values and browser results saved. Reduced-motion device/user rules retained; OS emulation/physical devices/screen readers untested. No user source migrations or new production guarantees. Repository publication next.
+
+## DESIGN-VARIETY-PLAN — 2026-11-06T00:24:14.304Z
+Actor: Codex. User requests coverage across all available designs rather than all-Midnight. Plan: use scoped app mapping in docs/design-source.json, selected complete theme/mode and corresponding licensed local fonts. Preserve format1 records, editor/save/recovery semantics and existing app layout. Update design documentation/provenance, run checks/tests/prepare, inspect desktop/mobile/control tasks and publish exact matching screenshot/repo. No additional access guarantees or user-record migration. Pending.
+
+## DESIGN-VARIETY-APPLIED — 2026-11-06T00:24:59.527Z
+Actor: Codex; reference DESIGN-VARIETY-PLAN. Selected complete Classic/light theme, fonts and type/shape/spacing roles from dec4b08d12b98261bb6b52d9bfeb07c876b8f89d. Independent theme bytes unchanged; no domain/app behavior/source record changes. Design documentation/provenance updated. Browser/check verification pending.
+
+## DESIGN-VARIETY-VERIFIED — 2026-11-06T00:27:44.758Z
+Actor: Codex; reference DESIGN-VARIETY-PLAN. classic/light renders full selected typography/colors/geometry with local fonts. check/full model-domain-persistence-deployment tests/prepare pass. Desktop1280/mobile320 no page overflow; native search empty/recovery and editor focus/Escape pass. Screenshots inspected, source hashes/results saved. No app behavior or source record changes. Device motion rules retained; OS emulation/physical devices/screen readers untested. Publication next.
