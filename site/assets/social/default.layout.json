@@ -1,0 +1,18 @@
+{
+  "design": "classic",
+  "mode": "light",
+  "titleLines": [
+    "Make room",
+    "for good work."
+  ],
+  "titleSize": 82,
+  "descriptionLines": [
+    "An independent studio for thoughtful spaces,",
+    "clear identities and useful digital tools."
+  ],
+  "fonts": [
+    "Source Serif 4",
+    "Inter"
+  ],
+  "safeInset": 64
+}
